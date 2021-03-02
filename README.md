@@ -8,5 +8,4 @@
 
 # chmod +x *
 
-
-bash PSH.sh
+# bash PSH.sh
