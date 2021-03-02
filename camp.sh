@@ -1,21 +1,18 @@
-#!/bin/bash
-# CamPhish For 14 Feb
-# Powered by Hat-Abm
-# Credits goes to thelinuxchoice [github.com/BD8KR3M/]
+
 
 trap 'printf "\n";stop' 2
 
 banner() {
 clear  
 printf "\e[\n" 
-printf "\e[91m          █████╗  █████╗ ███╗   ███╗██████╗\e[0m\n" 
-printf "\e[91m         ██╔══██╗██╔══██╗████╗ ████║██╔══██╗\e[0m\n"
-printf "\e[91m         ██║  ╚═╝███████║██╔████╔██║██████╔╝\e[0m\n"
-printf "\e[91m         ██║  ██╗██╔══██║██║╚██╔╝██║██╔═══╝\e[0m\n"
-printf "\e[91m         ╚█████╔╝██║  ██║██║ ╚═╝ ██║██║     \e[0m\n"
-printf "\e[91m          ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     \e[0m\n"
-printf " \e[1;77m           HAT-ABM | Github.com/BD8KR3M \e[0m \n"
-printf " \e[1;77m              MOD BY- |ABM MUJAHID| \e[0m \n"
+printf "\e[91m         ██████╗\e[0m\n" 
+printf "\e[91m        ║██   ██╗\e[0m\n"
+printf "\e[91m         ███████\e[0m\n"
+printf "\e[91m         ██╔═══╝\e[0m\n"
+printf "\e[91m         ██║     \e[0m\n"
+printf "\e[91m        ╚═╝     \e[0m\n"
+printf " \e[1;77m           By Pyae Sone Hmoo\e[0m \n"
+printf " \e[1;77m              We are Myanmar \e[0m \n"
 printf " \e[1;77m-----------------------------------------------\e[0m \n"
 
 #printf "\n"
