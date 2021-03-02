@@ -10,7 +10,7 @@ printf "\e[91m        ║██   ██╗\e[0m\n"
 printf "\e[91m         ███████\e[0m\n"
 printf "\e[91m         ██╔═══╝\e[0m\n"
 printf "\e[91m         ██║     \e[0m\n"
-printf "\e[91m        ╚═╝     \e[0m\n"
+printf "\e[91m         ╚═╝     \e[0m\n"
 printf " \e[1;77m           By Pyae Sone Hmoo\e[0m \n"
 printf " \e[1;77m              We are Myanmar \e[0m \n"
 printf " \e[1;77m-----------------------------------------------\e[0m \n"
@@ -218,7 +218,7 @@ if [[ -e sendlink ]]; then
 rm -rf sendlink
 fi
 
-printf "\n⭕ Choose tunnel server👇👇\n"    
+printf "\n⭕ Choose tunnel server👇\n"    
 printf "\n\e[1;92m[\e[0m\e[1;77m01\e[0m\e[1;92m]\e[0m\e[1;93m Ngrok\e[0m\n"
 printf "\e[1;92m[\e[0m\e[1;77m02\e[0m\e[1;92m]\e[0m\e[1;93m Serveo.net\e[0m\n"
 default_option_server="1"
