@@ -6,7 +6,7 @@
 
 # cd camera-hack
 
-chmod +x ngrok camp.sh
+# chmod +x *
 
 
-bash camp.sh
+bash PSH.sh
